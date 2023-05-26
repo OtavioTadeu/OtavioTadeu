@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=OtavioTadeu&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTadeu&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTadeu&layout=compact&theme=dark)](https://github.com/mav-26/github-readme-stats)
