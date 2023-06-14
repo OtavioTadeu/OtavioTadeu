@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: otaviotadeu244@gmail.com
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioTadeu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTadeu)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTadeu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
