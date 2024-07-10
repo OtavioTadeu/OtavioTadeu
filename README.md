@@ -1,8 +1,7 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on school projects
-- 🌱 I’m currently learning c#, html, css, php, mysql
-- 📫 How to reach me: otaviotadeu244@gmail.com
+- 🌱 C#, HTML, CSS, PHP, MYSQL
+- 📫 How to reach me:
+  email: otaviotadeu244@gmail.com
+  linkedin: https://www.linkedin.com/in/otavio-tadeu/
 
 <picture>
 <source
