@@ -1,7 +1,7 @@
 - 🌱 C#, HTML, CSS, PHP, MYSQL
 - 📫 How to reach me:
-  email: otaviotadeu244@gmail.com
-  linkedin: https://www.linkedin.com/in/otavio-tadeu/
+- email: otaviotadeu244@gmail.com
+- linkedin: https://www.linkedin.com/in/otavio-tadeu/
 
 <picture>
 <source
