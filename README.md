@@ -9,7 +9,7 @@
 Atualmente sou estudante de **Ciência da Computação** na Faculdade Cotemig e atuo como **Monitor de Laboratório**, auxiliando outros alunos com C#, PHP, SQL e lógica de programação. Minha base vem do ensino técnico (Colégio Cotemig), e meu foco de carreira é o **Desenvolvimento de Software (Back-end)**, com um interesse crescente em **Segurança da Informação**.
 
 * 🎓 **Formação:** Graduando em Ciência da Computação (Cotemig, 2025-2028).
-* 💼 **Experiência:** Monitoria de Laboratório e Code Club (Apoio no ensino de lógica e programação).
+* 💼 **Experiência:** Monitoria de Laboratório e Code Club.
 * 🎯 **Objetivo:** Criar soluções que priorizem qualidade, eficiência e segurança.
 
 ---
@@ -28,26 +28,21 @@ Atualmente sou estudante de **Ciência da Computação** na Faculdade Cotemig e 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-**Outros Interesses**
-* Redes de Computadores & Segurança
-* Robótica
-* Ensino de Tecnologia (Didática e Liderança)
+---
+
+### 📊 Conquistas e Atividade
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=otaviotadeu&theme=onedark&no-frame=true&margin-w=15" />
+  
+  <br/><br/>
+  
+  <img src="https://github.com/otaviotadeu/otaviotadeu/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ---
 
-### Opção 1: Streak Stats (Geralmente mais rápido)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=otaviotadeu&theme=dark)
-
-### Opção 2: Trophies (Troféus baseados nas suas ações)
-![Trophy](https://github-profile-trophy.vercel.app/?username=otaviotadeu&theme=onedark&no-frame=true)
-
-### Opção 3: Most Used Languages (Outro servidor)
-![Top Langs](https://api.github-readme-stats.vercel.app/api/top-langs/?username=otaviotadeu&layout=compact&theme=dark)
-
----
 ### 📫 Contato
-
-Sinta-se à vontade para entrar em contato para projetos ou networking!
 
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otavio-tadeu/)
 * [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviotadeu244@gmail.com)
