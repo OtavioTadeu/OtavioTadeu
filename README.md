@@ -30,11 +30,30 @@ Atualmente sou estudante de **Ciência da Computação** na Faculdade Cotemig e 
 
 ---
 
-### 📊 Conquistas e Atividade
+### 📊 Atividade e Tecnologias
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=otaviotadeu&theme=onedark&no-frame=true&margin-w=15" />
-  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otaviotadeu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otaviotadeu&layout=compact&langs_count=7&theme=dark"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otaviotadeu&theme=dark&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/otaviotadeu/otaviotadeu/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
   <br/><br/>
   
   <img src="https://github.com/otaviotadeu/otaviotadeu/raw/output/github-contribution-grid-snake-dark.svg" />
