@@ -35,14 +35,13 @@ Atualmente sou estudante de **Ciência da Computação** na Faculdade Cotemig e 
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Minhas Estatísticas
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=otavio-tadeu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-tadeu&layout=compact&langs_count=7&theme=dark"/>
-  </a>
-</div>
+![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=otavio-tadeu&show_icons=true&theme=dark&count_private=true)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-tadeu&layout=compact&theme=dark)
+
+---
 ### 📫 Contato
 
 Sinta-se à vontade para entrar em contato para projetos ou networking!
