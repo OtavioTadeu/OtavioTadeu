@@ -35,11 +35,14 @@ Atualmente sou estudante de **Ciência da Computação** na Faculdade Cotemig e 
 
 ---
 
-### 📊 Minhas Estatísticas
+### Opção 1: Streak Stats (Geralmente mais rápido)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=otaviotadeu&theme=dark)
 
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=OtavioTadeu&show_icons=true&theme=dark&count_private=true)
+### Opção 2: Trophies (Troféus baseados nas suas ações)
+![Trophy](https://github-profile-trophy.vercel.app/?username=otaviotadeu&theme=onedark&no-frame=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTadeu&layout=compact&theme=dark)
+### Opção 3: Most Used Languages (Outro servidor)
+![Top Langs](https://api.github-readme-stats.vercel.app/api/top-langs/?username=otaviotadeu&layout=compact&theme=dark)
 
 ---
 ### 📫 Contato
