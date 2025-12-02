@@ -37,9 +37,9 @@ Atualmente sou estudante de **Ciência da Computação** na Faculdade Cotemig e 
 
 ### 📊 Minhas Estatísticas
 
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=otavio-tadeu&show_icons=true&theme=dark&count_private=true)
+![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=OtavioTadeu&show_icons=true&theme=dark&count_private=true)
 
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=otavio-tadeu&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioTadeu&layout=compact&theme=dark)
 
 ---
 ### 📫 Contato
